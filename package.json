@@ -1,0 +1,16 @@
+{
+  "name": "mysql-task-lib",
+  "version": "1.0.0",
+  "description": "The mysql node library wrapped in task helper function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Apfel",
+  "license": "ISC",
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "mysql": "^2.13.0",
+    "ramda": "^0.23.0"
+  }
+}
